@@ -1,5 +1,5 @@
-# Map Showcase
-Oh look, a selection of animated maps.
+# Animated Map Showcase
+Oh look, these maps can move. A quick selection of animated maps.
 
 <br>
 <hr>
