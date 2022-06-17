@@ -5,20 +5,8 @@ Oh look, a selection of animated maps.
 <hr>
 
 ### Animating Data on Maps 
-Some quick animations, built in R.
-[![image](https://github.com/ctedja/map_showcase/blob/main/displacement.gif)]
-[![image](https://github.com/ctedja/map_showcase/blob/main/conflict.gif)]
-
-These fed into a larger animated [story map](https://storymaps.arcgis.com/stories/8cb013ca66644a2a84a3e716ef829935).
-<br>
-<hr>
-
-
-And some more animations, built in R.
-[![image](https://github.com/ctedja/map_showcase/blob/main/displacement.gif)]
-[![image](https://github.com/ctedja/map_showcase/blob/main/conflict.gif)]
-
-These fed into a larger animated [story map](https://storymaps.arcgis.com/stories/8cb013ca66644a2a84a3e716ef829935).
+Some quick animations, built in R, are embedded into this ArcGIS [product](https://github.com/ctedja/map_showcase/blob/main/afg_storymap.gif).
+[![image](https://github.com/ctedja/map_showcase/blob/main/afg_storymap.gif)](https://arcg.is/0ubWPy)
 <br>
 <hr>
 
